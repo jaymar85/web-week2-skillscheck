@@ -1,0 +1,23 @@
+#header, .links {
+    width: 100vw;
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+#spacer {
+    width: 100vw;
+    height 100vh;
+    display: flex;
+    background-color: black;
+}
+
+#container {
+    display: flex;
+    background-color: azure;
+}
+
+#footer {
+    display: flex;
+}
+
